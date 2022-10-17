@@ -22,6 +22,6 @@ public class HelloController {
 	
 	@RequestMapping("/greet")
 	public String sayGreet() {
-		return "<h1>Good Morning Team :)</h1>";
+		return "<h1>Good Morning Everyone from Abhijith Chowdary :)</h1>";
 	}
 }
